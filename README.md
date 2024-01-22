@@ -18,3 +18,4 @@ kh 파이널 프로젝트
 [팀원과 같이 쓴 파일]
 + src\main\java\com\kh\littleEco\member
 + src\main\resources\mappers\member-mapper
++ src\main\webapp\WEB-INF\views\common\header (파일내에 스크립트 전부)
